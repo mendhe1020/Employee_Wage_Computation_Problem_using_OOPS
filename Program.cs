@@ -8,13 +8,9 @@ namespace Employee_Wage
         {
             Console.WriteLine("Welcome to Employee Wage Problem");
 
-
-
             EmployeeWage obj = new EmployeeWage();
 
             obj.EmpWage();
-
-
 
         }
     }
