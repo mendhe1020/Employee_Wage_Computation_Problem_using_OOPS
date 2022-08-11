@@ -12,6 +12,7 @@ namespace Employee_Wage
 
             obj.EmpWage();
 
+
         }
     }
 }
