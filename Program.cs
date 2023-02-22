@@ -13,7 +13,7 @@ namespace Employee_Wage
             EmployeeWage obj = new EmployeeWage();
 
             obj.EmpWage();
-
+            Console.WriteLine("Welcome");
 
 
         }
